@@ -20,6 +20,14 @@ Linkerd 为您的应用程序增加了可视性，控制和可靠性, 它使用�
 
 [阅读更多 »](https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
 
+<img src="images/why_is_it_necessary@2x.png" width="50%" height="50%">
+
+## Linkerd的其它特性?
+
+除断路器和延迟感知负载均衡来增强系统可靠性外，Linkerd还提供优质的自动化服务监控度量，比如请求量、成功率和延时分发等。通过dtabs的强大语法，提供了请求级别路由和多服务发现整合功能。
+
+[阅读更多 »](https://linkerd.io/features/)
+
 此微型仪表板显示对服务的请求，在其两个客户端上进行负载平衡。
 
 <img src="images/service-mesh-2.png" width="50%" height="50%">
